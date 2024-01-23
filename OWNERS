@@ -2,6 +2,6 @@
 # See the OWNERS docs at https://go.k8s.io/owners
 
 approvers:
-  - image-import-team
+  - shtarkman
 reviewers:
   - image-import-team
